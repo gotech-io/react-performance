@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  padding: 6px;
+}
+
+.border {
+  border: 10px solid red;
+  margin: 8px;
+  padding: 8px;
+}
