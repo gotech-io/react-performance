@@ -1,28 +1,21 @@
-# React Beginner Course by GoTech
+# React Advanced Course by GoTech
 <img src="https://gotech.io/assets/images/common/logo.svg" alt="GoTech Logo" width="300"/>
 
 ##
 These repositories are a part of a course led by [Doron Feldman](https://github.com/doronfeldman)
 
 ## Course Topics
-1. What is React and why do we need it?
-2. Intro to JSX
-3. React Components - Basics
-   * Examples - [react-components](https://github.com/gotech-io/react-components)
-   * Practice - [react-practice-01](https://github.com/gotech-io/react-practice-01)
-4. React Components - State & Lifecycle
-   * Examples - [react-state-lifecycle](https://github.com/gotech-io/react-state-lifecycle) ⬅ **You are here**
-   * Practice - [react-practice-02](https://github.com/gotech-io/react-practice-02)
-5. React Context
-   * Examples - [react-context](https://github.com/gotech-io/react-context)
-   * Practice - [react-practice-03](https://github.com/gotech-io/react-practice-03)
-6. Styling in React
-   * Examples - [react-styling](https://github.com/gotech-io/react-styling)
-   * Practice - [react-practice-04](https://github.com/gotech-io/react-practice-04)
-7. React Routing
-   * Examples - [react-routing](https://github.com/gotech-io/react-routing)
-   * Practice - [react-practice-05](https://github.com/gotech-io/react-practice-05)
-
+1. Advanced Hooks
+   * Examples - [react-advanced-hooks](https://github.com/gotech-io/react-advanced-hooks)
+   * Practice - [react-practice-06](https://github.com/gotech-io/react-practice-06)
+2. How React Works?
+3. React Performance
+   * Examples - [react-performance](https://github.com/gotech-io/react-performance)
+   * Practice - [react-practice-07](https://github.com/gotech-io/react-practice-07)
+4. Global State Management
+   * Examples - [react-global-state-management](https://github.com/gotech-io/react-global-state-management)
+   * Practice - [react-practice-08](https://github.com/gotech-io/react-practice-08)
+5. Project Structure - Reusability and Scale
 
 ## Getting Started
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
