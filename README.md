@@ -10,7 +10,7 @@ These repositories are a part of a course led by [Doron Feldman](https://github.
    * Practice - [react-practice-06](https://github.com/gotech-io/react-practice-06)
 2. How React Works?
 3. React Performance
-   * Examples - [react-performance](https://github.com/gotech-io/react-performance)
+   * Examples - [react-performance](https://github.com/gotech-io/react-performance)  ⬅ **You are here**
    * Practice - [react-practice-07](https://github.com/gotech-io/react-practice-07)
 4. Global State Management
    * Examples - [react-global-state-management](https://github.com/gotech-io/react-global-state-management)
