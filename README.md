@@ -14,8 +14,10 @@ These repositories are a part of a course led by [Doron Feldman](https://github.
    * Practice - [react-practice-07](https://github.com/gotech-io/react-practice-07)
 4. Global State Management
    * Examples - [react-global-state-management](https://github.com/gotech-io/react-global-state-management)
-   * Practice - [react-practice-08](https://github.com/gotech-io/react-practice-08)
+   * Practice Redux - [react-practice-08](https://github.com/gotech-io/react-practice-08)
+   * Practice MobX - [react-practice-09](https://github.com/gotech-io/react-practice-09)
 5. Project Structure - Reusability and Scale
+   * Examples - [react-project-structure](https://github.com/gotech-io/react-project-structure)
 
 ## Getting Started
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
